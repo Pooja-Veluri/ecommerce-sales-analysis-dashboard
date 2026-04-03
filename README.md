@@ -17,6 +17,7 @@ The dashboard provides a comprehensive view of business performance across categ
 * Which states contribute the most to revenue?
 * What are the top-performing sub-categories?
 * How do different regions and customer segments perform?
+* How do sales vary month-wise and are there any seasonal trends?
 
 ---
 
@@ -28,12 +29,6 @@ The dashboard provides a comprehensive view of business performance across categ
 * Slicers (Year, Region, Segment)
 * Data Cleaning
 * KPI Metrics
-
----
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
 
 ---
 
@@ -53,6 +48,7 @@ GitHub cannot preview Excel files.
 * Top-performing states include California and New York
 * Sub-categories such as Phones and Chairs generate the highest revenue
 * Overall profit margin is approximately **12.47%**
+* Sales show strong seasonal trends, with peak performance in November and December, while February records the lowest sales
 
 ---
 
